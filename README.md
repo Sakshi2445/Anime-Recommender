@@ -1,7 +1,13 @@
 #Anime Recommender
 ##A content-based anime recommendation engine
 
-Here we have used MongoDb, ExpressJS, NodeJS, JavaScript, HTML, CSS 
+***The drive link showing the working of our anime Recommendation system is:***
+[Anime-Recommender-System](https://drive.google.com/file/d/1t0VUwvKQoEgYsMHzWPuPp2H7GFRjnS9p/view?usp=sharing)
+
+Here we have used MongoDb, ExpressJS, NodeJS, JavaScript, HTML, CSS.
+
+***The Heroku link for the working is:***
+[Anime-Recommender](https://animerec-anime-recommender.herokuapp.com/)
 
 This is an anime Recommender system which works on the basis of two algorithms which are ***Eucledian Geometry and Cosine Similarity algorithms.***
 
