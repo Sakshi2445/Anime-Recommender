@@ -40,7 +40,6 @@ function htmltemplate(value) {
                       <figcaption class="card__caption">
                         <h2 class="card__title">${name}</h2>
                         <p class="card__snippet">   </p>
-                        <a href="http://127.0.0.1:3000/details.html" class="card__button">View more</a>
                       </figcaption>
                     </figure>
                   </div>`;
