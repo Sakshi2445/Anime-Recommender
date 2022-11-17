@@ -1,10 +1,10 @@
 #Anime Recommender
 ##A content-based anime recommendation engine
 
-***The drive link showing the working of our anime Recommendation system is:***
+***The drive link showing the working of my anime Recommendation system is:***
 [Drive-link-Anime-Recommender-System](https://drive.google.com/file/d/1t0VUwvKQoEgYsMHzWPuPp2H7GFRjnS9p/view?usp=sharing)
 
-Here we have used MongoDb, ExpressJS, NodeJS, JavaScript, HTML, CSS.
+Here I have used MongoDb, ExpressJS, NodeJS, JavaScript, HTML, CSS.
 
 ***The Heroku link for the working is:***
 [Anime-Recommender](https://animerec-anime-recommender.herokuapp.com/)
@@ -17,4 +17,4 @@ A recommender (or recommendation) system (or engine) is a filtering system which
 
 Recommendations done using content-based recommenders can be seen as a user-specific classification problem. This classifier learns the user's likes and dislikes from the features of the song. The most straightforward approach is keyword matching. In a few words, the idea behind is to extract meaningful keywords present in a song description a user likes, search for the keywords in other song descriptions to estimate similarities among them, and based on that, recommend those songs to the user.
 
-In our case, because we are working with text and words, Term Frequency-Inverse Document Frequency (TF-IDF) can be used for this matching process.
+In my case, because I am working with text and words, Term Frequency-Inverse Document Frequency (TF-IDF) can be used for this matching process.
